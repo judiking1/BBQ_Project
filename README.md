@@ -22,6 +22,7 @@ https://github.com/judiking1/BBQ_Project/files/11876988/Floatleft_Project_BBQ.tx
 
 #4. Work-Flow
 
+
 마이페이지 :
  1. 포인트, 쿠폰, 주문 내역, 문의 내역, 문의에 달린 관리자 답글 확인 가능
  2. 답글 달리기전에 문의 삭제 가능
