@@ -35,6 +35,7 @@
 
 
 <h2>#5. 소스코드</h2>
+https://github.com/judiking1/BBQ_Project.git
 
 
 <h2>#6. 프로젝트 시연</h2>
