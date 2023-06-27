@@ -1,76 +1,68 @@
 # BBQ_Project
 
-조별 자바 프로젝트 CRUD
+<h1>조별 풀스택 프로젝트 CRUD</h1>
 
-#1. 개요
+<h2>#1. 개요</h2>
 
-프론트 엔드와 백엔드를 모두 활용 할 수 있는 웹페이지를 찾아 구현해 보았습니다.
-
-프로젝트를 통해 소통하며 협업하는 방법을 배우며, 프론트 엔드와 백엔드 각 포지션을 나눠서 오류없이 페이지를 구현했습니다.
-
-#2. DB 구성
-
-https://github.com/judiking1/BBQ_Project/files/11876988/Floatleft_Project_BBQ.txt
-
-
-#3. 구성
-
- Main (index)
- 
- Sub (메뉴 소개)
- 
- Contents (각 메뉴 클릭시 메뉴 정보)
- 
- Etc (회원가입, 로그인, 온라인주문, 고객문의, 마이페이지, 관리자페이지 등)
- 
-
-#4. Work-Flow
+> HTML, CSS, JS을 활용해 BBQ 사이트를 클론코딩하고, WEB JAVA를 통해 CRUD 기능을 구현하였습니다.<br>
+> C - 회원가입, 문의글 작성, 온라인 주문<br>
+> R - 서브페이지 및 콘텐츠페이지 메뉴 조회, 회원정보 조회, 문의글 조회, 주문내역 조회, 회원목록 불러오기<br>
+> U - 회원정보 수정, 문의글 수정, 포인트 누적<br>
+> D - 회원탈퇴, 문의글 삭제
+<br><br>
 
 
-마이페이지 :
- 1. 포인트, 쿠폰, 주문 내역, 문의 내역, 문의에 달린 관리자 답글 확인 가능
- 2. 답글 달리기전에 문의 삭제 가능
- 3. 개인정보변경 가능
-    
+<h2>#2. DB 구성</h2>
 
-주소찾기 기능( 카카오 오픈소스 이용 ) :
- 1. 메인페이지 GNB의 매장찾기 페이지, 매장 안내 box
- 2. 회원 가입시 매장찾기
- 3. 마이페이지의 주소록
- 4. 고객문의시 매장찾기
+[Floatleft_Project_BBQ.txt](https://github.com/judiking1/BBQ_Project/files/11876988/Floatleft_Project_BBQ.txt)
 
-관리자 페이지 : 모든 회원 목록, 주문내역, 문의내역 확인가능. 문의내역에 답변 가능
+<h2>#3. 구성</h2>
 
-* 관리자 아이디는 DB에서 따로 insert 하여 만들어야 함.
+> 메인 페이지<br>
+> 서브 페이지(메뉴 소개)<br>
+> 콘텐츠 페이지(메뉴 정보)<br>
+> 마이 페이지 및 관리자 페이지<br>
+> 회원가입 페이지<br>
+> 로그인 페이지<br>
+> 온라인주문 페이지<br>
+> 고객문의 페이지
+<br><br>
+
+
+<h2>#4. Work-Flow</h2>
+
+[Floatleft_Project_BBQmd.TXT](https://github.com/judiking1/BBQ_Project/files/11877052/Floatleft_Project_BBQmd.TXT)
+
+
+<h2>#5. 소스코드</h2>
+
+
+<h2>#6. 프로젝트 시연</h2>
+
+  <h3>A. 회원가입 및 온라인 주문</h3>
+
+  https://github.com/judiking1/BBQ_Project/assets/110409369/009e4e01-9bab-4d7a-9a9b-abfc3ac26c30
+
+  <h3>B. 게시판 작성 및 회원정보 수정</h3>
+
+  https://github.com/judiking1/BBQ_Project/assets/110409369/9e313fb4-71e0-4ac9-8e41-8880adb9d683
   
-* 상단 우측 메뉴는 일반회원은 마이페이지, 관리자는 관리자페이지로 구분됨.
+  <h3>C. 게시판 답변 확인하기</h3>
 
+  https://github.com/judiking1/BBQ_Project/assets/110409369/b0242af3-ec10-489a-ab9c-a4538f8eafa1
 
-#5. 프로젝트 시연  
+  <h3>D. 서브 및 콘텐츠 메뉴</h3>
 
-<h2>로그인, 회원가입, 주문</h2>
+  https://github.com/judiking1/BBQ_Project/assets/110409369/3d3b9ee8-ac55-47ba-bf71-fc41e370db83
 
-https://github.com/judiking1/BBQ_Project/assets/110409369/009e4e01-9bab-4d7a-9a9b-abfc3ac26c30
+  <h3>E. 매장찾기</h3>
 
-<h2>관리자 페이지, 답변 </h2>
+  https://github.com/judiking1/BBQ_Project/assets/110409369/5adb2d32-01ef-4fcc-8d85-96c1a7020d58
 
-https://github.com/judiking1/BBQ_Project/assets/110409369/c0c907f9-4602-447c-be96-4394693f0399
+  <h3>F. 관리자 로그인 및 전용 페이지</h3>
 
-<h2>글작성,수정, 개인정보 변경</h2>
+  https://github.com/judiking1/BBQ_Project/assets/110409369/c0c907f9-4602-447c-be96-4394693f0399
 
-https://github.com/judiking1/BBQ_Project/assets/110409369/9e313fb4-71e0-4ac9-8e41-8880adb9d683
-
-<h2>답변확인</h2>
-
-https://github.com/judiking1/BBQ_Project/assets/110409369/b0242af3-ec10-489a-ab9c-a4538f8eafa1
-
-<h2>메뉴정보</h2>
-
-https://github.com/judiking1/BBQ_Project/assets/110409369/3d3b9ee8-ac55-47ba-bf71-fc41e370db83
-
-<h2>매장찾기</h2>
-
-https://github.com/judiking1/BBQ_Project/assets/110409369/5adb2d32-01ef-4fcc-8d85-96c1a7020d58
 
 
 
