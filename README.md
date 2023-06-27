@@ -1,11 +1,15 @@
 # BBQ_Project
+
 조별 자바 프로젝트 CRUD
 
 #1. 개요
+
 프론트 엔드와 백엔드를 모두 활용 할 수 있는 웹페이지를 찾아 구현해 보았습니다.
+
 프로젝트를 통해 소통하며 협업하는 방법을 배우며, 프론트 엔드와 백엔드 각 포지션을 나눠서 오류없이 페이지를 구현했습니다.
 
 #2. DB 구성
+
 https://github.com/judiking1/BBQ_Project/files/11876988/Floatleft_Project_BBQ.txt
 
 
