@@ -53,7 +53,7 @@
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/3d3b9ee8-ac55-47ba-bf71-fc41e370db83
+  https://github.com/judiking1/BBQ_Project/assets/110409369/241067a7-972e-4842-8698-0a86fa60244f
 
   <h3>E. 매장찾기</h3>
 
