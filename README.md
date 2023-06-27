@@ -10,10 +10,15 @@ https://github.com/judiking1/BBQ_Project/files/11876988/Floatleft_Project_BBQ.tx
 
 
 #3. 구성
+
  Main (index)
+ 
  Sub (메뉴 소개)
+ 
  Contents (각 메뉴 클릭시 메뉴 정보)
+ 
  Etc (회원가입, 로그인, 온라인주문, 고객문의, 마이페이지, 관리자페이지 등)
+ 
 
 #4. Work-Flow
 
