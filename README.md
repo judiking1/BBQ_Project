@@ -43,7 +43,7 @@ https://github.com/judiking1/BBQ_Project/files/11876988/Floatleft_Project_BBQ.tx
 
 * 관리자 아이디는 DB에서 따로 insert 하여 만들어야 함.
   
-** 상단 우측 메뉴는 일반회원은 마이페이지, 관리자는 관리자페이지로 구분됨.
+* 상단 우측 메뉴는 일반회원은 마이페이지, 관리자는 관리자페이지로 구분됨.
 
 
 #5. 프로젝트 시연  
