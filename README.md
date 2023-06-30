@@ -50,7 +50,7 @@ https://github.com/judiking1/BBQ_Project.git
   
   <h3>C. 게시판 답변 확인하기</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/7bd84ed1-30ec-4f7f-873a-18794764db31
+  https://github.com/judiking1/BBQ_Project/assets/110409369/b262d054-beaa-4a7c-ab20-ef0e6f664403
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
 
