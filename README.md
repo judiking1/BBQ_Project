@@ -32,8 +32,7 @@
 
 <h2>#4. Work-Flow</h2>
 
-[Floatleft_Project_BBQmd.TXT](https://github.com/judiking1/BBQ_Project/files/11877052/Floatleft_Project_BBQmd.TXT)
-
+![image](https://github.com/judiking1/BBQ_Project/assets/110409369/5451b3ff-5067-4357-b98c-e3dfaaf788b5)
 
 <h2>#5. 소스코드</h2>
 https://github.com/judiking1/BBQ_Project.git
