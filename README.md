@@ -40,29 +40,29 @@ https://github.com/judiking1/BBQ_Project.git
 
 <h2>#6. 프로젝트 시연</h2>
 
-  <h3>A. 회원가입 및 온라인 주문</h3>
+  <h3>A. 회원가입, 로그인 온라인 주문</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/009e4e01-9bab-4d7a-9a9b-abfc3ac26c30
+  https://github.com/judiking1/BBQ_Project/assets/110409369/3d8a6676-28c4-4627-bed8-e914f9c98359
 
   <h3>B. 게시판 작성 및 회원정보 수정</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/9e313fb4-71e0-4ac9-8e41-8880adb9d683
+  https://github.com/judiking1/BBQ_Project/assets/110409369/7bd84ed1-30ec-4f7f-873a-18794764db31
   
   <h3>C. 게시판 답변 확인하기</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/b0242af3-ec10-489a-ab9c-a4538f8eafa1
+  https://github.com/judiking1/BBQ_Project/assets/110409369/7bd84ed1-30ec-4f7f-873a-18794764db31
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/241067a7-972e-4842-8698-0a86fa60244f
+  https://github.com/judiking1/BBQ_Project/assets/110409369/929d33ae-3e01-4fdf-a6e7-52a089fa30ec
 
   <h3>E. 매장찾기</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/5adb2d32-01ef-4fcc-8d85-96c1a7020d58
+  https://github.com/judiking1/BBQ_Project/assets/110409369/7d8a692e-5a75-4735-9193-5604feeeebf1
 
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
 
-  https://github.com/judiking1/BBQ_Project/assets/110409369/c0c907f9-4602-447c-be96-4394693f0399
+  https://github.com/judiking1/BBQ_Project/assets/110409369/91425918-acc2-4772-911e-a7ee0b410e49
 
 
 
