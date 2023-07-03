@@ -32,7 +32,7 @@
 
 <h2>#4. Work-Flow</h2>
 
-![image](https://github.com/judiking1/BBQ_Project/assets/110409369/5451b3ff-5067-4357-b98c-e3dfaaf788b5)
+![workflow](https://github.com/judiking1/BBQ_Project/assets/110409369/73f8f356-9b12-4381-b31b-1cbec3e79cfe)
 
 <h2>#5. 소스코드</h2>
 https://github.com/judiking1/BBQ_Project.git
