@@ -14,7 +14,7 @@
 
 <h2>#2. DB 구성</h2>
 
-![bbq 구성](https://github.com/judiking1/BBQ_Project/assets/110409369/57618ca0-49e3-45d5-b461-e9009b5a1db3)
+![KakaoTalk_20230703_092831151](https://github.com/judiking1/BBQ_Project/assets/110409369/135815d0-7d96-4a5a-8d65-8c8943379aa3)
 
 <h2>#3. 구성</h2>
 
