@@ -13,8 +13,8 @@
 > R - 서브페이지 및 콘텐츠페이지 메뉴 조회, 회원정보 조회, 문의글 조회, 주문내역 조회, 회원목록 불러오기<br>
 > U - 회원정보 수정, 문의글 수정, 포인트 누적<br>
 > D - 회원탈퇴, 문의글 삭제<br>
-> 사용 언어 - JAVA, JSP, SQL
-> 사용 프로그램 - eclipse, Oracle DB, VS Code
+> 사용 언어 - JAVA, JSP, SQL<br>
+> 사용 프로그램 - eclipse, Oracle DB, sqldeveloper, VS Code
 
 <br><br>
 
